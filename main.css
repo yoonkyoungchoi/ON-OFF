@@ -9,6 +9,19 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+@font-face{
+    font-family: 'Nanum Gothic';
+    src:url(NanumFont_TTF_ALL/NanumGothic.ttf) format('truetype');
+}
+
+#sub_text{
+    font-family: NanumGothic;
+    text-align: center;
+    font-weight: 700;
+    position:absolute; left:835; top:450; 
+}
+
 h2{
     text-align: center;
 }
+
