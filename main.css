@@ -3,7 +3,7 @@ body{
 }
 
 #position{
-    position:absolute; left:880; top:200; 
+    position:absolute; left:890; top:200; 
     text-align: center; 
     text-decoration-color: cadetblue; 
     font-family: 'Courier New', Courier, monospace;
@@ -18,7 +18,7 @@ body{
     font-family: NanumGothic;
     text-align: center;
     font-weight: 700;
-    position:absolute; left:835; top:450; 
+    position:absolute; left:845; top:300; 
 }
 
 h2{
@@ -30,7 +30,7 @@ button{
     text-align: center;
     text-decoration: none;
     font-size: 13px;
-    position: absolute; left: 870px; bottom: 250px; 
+    position: absolute; left: 870px; bottom: 400px; 
     width: 100px;
     height: 50px;
     
@@ -42,7 +42,7 @@ button{
     left: 0;
     right: 0;
     bottom: 0;
-    height: 50px;
+    height: 30px;
     width: 100px;
     margin: auto;;
   }
@@ -62,7 +62,7 @@ button{
     font-weight: 200;
     letter-spacing: 1px;
     text-decoration: none;
-    box-shadow: 0 5px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 5px 3px rgba(75, 77, 76, 0.3);
     cursor: pointer;
     /*border-radius: 50px;*/
     -webkit-tap-highlight-color: transparent;
