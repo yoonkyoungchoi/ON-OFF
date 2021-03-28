@@ -8,3 +8,7 @@ body{
     text-decoration-color: cadetblue; 
     font-family: 'Courier New', Courier, monospace;
 }
+
+h2{
+    text-align: center;
+}
