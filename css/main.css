@@ -9,7 +9,7 @@ body{
 }
 
 #position{
-    position:absolute; left:880; top:200; 
+    position:absolute; left:890; top:200; 
     text-align: center; 
     text-decoration-color: cadetblue; 
     font-family: 'Courier New', Courier, monospace;
@@ -19,10 +19,21 @@ body{
     font-family: NanumGothic;
     text-align: center;
     font-weight: 700;
-    position:absolute; left:835; top:450; 
+    position:absolute; left:845; top:400; 
 }
 
 h2{
     text-align: center;
 }
 
+button{
+    font-family: NanumGothic;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute; left: 870px; bottom: 400px; 
+    width: 100px;
+    height: 50px;
+    
+}
+ 
